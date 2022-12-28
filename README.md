@@ -1,1 +1,1 @@
-https://retrolog.io/blog/creating-a-hugo-theme-from-scratch/
+Continue here: https://nextjs.org/learn/basics/assets-metadata-css
