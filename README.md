@@ -1,1 +1,1 @@
-Continue here: https://nextjs.org/learn/basics/assets-metadata-css
+Continue here: https://nextjs.org/learn/basics/dynamic-routes
